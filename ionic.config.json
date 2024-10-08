@@ -1,0 +1,7 @@
+{
+  "name": "ABAwesome",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
